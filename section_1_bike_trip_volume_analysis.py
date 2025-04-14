@@ -1,5 +1,5 @@
 """
-To run this file, Bike share ridership 2024-01.csv - Bike share ridership 2024-09.csv need to be downloaded. Files are too large to be uploaded into GitHub
+To run this file, bikeshare-ridership-2024 zip need to be downloaded and unzipped within the same folder as this python file. Files are too large to be uploaded into GitHub
 Link for download is provided in the readme file
 """
 
