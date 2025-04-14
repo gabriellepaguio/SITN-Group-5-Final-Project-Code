@@ -1,3 +1,8 @@
+"""
+To run this file, Bike share ridership 2024-01.csv - Bike share ridership 2024-09.csv need to be downloaded. Files are too large to be uploaded into GitHub
+Link for download is provided in the readme file
+"""
+
 import pandas as pd
 
 # list of all the file names that will be used for analysis
